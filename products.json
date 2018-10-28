@@ -1,0 +1,403 @@
+[
+  {
+    "id": "1",
+    "category": "Electronics",
+    "sub_category": "Mobile",
+    "brand": "Xiaomi",
+    "name": "Redmi Note 5 Pro",
+    "price": "14999",
+    "image": [
+      "https://images-na.ssl-images-amazon.com/images/I/51N7nR%2BYarL._SX569_.jpg"    ],
+    "ram": "4GB",
+    "storage": "64GB",
+    "rear-camera": "12MP + 5MP",
+    "front-camera": "20MP",
+    "display": "15.21 cm (5.99 inch) Full HD+ Display",
+    "battery": "4000 mAh Li Polymer Battery",
+    "soc": "Qualcomm Snapdragon 636 Processor"
+  },
+  {
+    "id": "2",
+    "category": "Electronics",
+    "sub_category": "Mobile",
+    "brand": "Samsung",
+    "name": "Samsung Galaxy A7",
+    "price": "23990",
+    "image": [
+      "https://st1.bgr.in/wp-content/uploads/2015/01/5ea01821a0dffb2514753b942572dcfc_375x500_1.jpg",
+      "https://rukminim1.flixcart.com/image/832/832/jmgmmq80/mobile/x/f/z/samsung-galaxy-a7-sm-a750fzbhins-original-imaf9d35gwut9uh5.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jmgmmq80/mobile/x/f/z/samsung-galaxy-a7-sm-a750fzbhins-original-imaf9d35gkhy6dmb.jpeg?q=70"
+    ],
+    "ram": "4GB",
+    "storage": "64GB",
+    "rear-camera": "24MP + 5MP + 8MP",
+    "front-camera": "24MP",
+    "display": "15.24 cm (6.0 inch) FHD+ Display",
+    "battery": "3300 mAh Lithium-ion Battery",
+    "soc": "Samsung Exynos Octa Core Processor (2.2 GHz) Processor"
+  },
+  {
+    "id": "3",
+    "category": "Electronics",
+    "sub_category": "Mobile",
+    "brand": "OnePlus",
+    "name": "OnePlus 5",
+    "price": "35999",
+    "image": [
+      "https://n2.sdlcdn.com/imgs/g/r/9/OPEN-BOX-OnePlus-5-128GB-SDL587804303-2-ef633.jpeg",
+      "https://rukminim1.flixcart.com/image/832/832/jcktzm80/mobile/n/q/v/oneplus-oneplus-5-a5000-original-imaffzjzexrrgfgg.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jcnovbk0/mobile/n/q/v/oneplus-oneplus-5-a5000-original-imaffzjzbqydfjhh.jpeg?q=70"
+    ],
+    "ram": "8GB",
+    "storage": "128GB",
+    "rear-camera": "16MP + 20MP",
+    "front-camera": "16MP",
+    "display": "13.97 cm (5.5 inch) Full HD Display",
+    "battery": "3300 mAh Lithium-ion Battery",
+    "soc": "Qualcomm Snapdragon 835 Processor"
+  },
+  {
+    "id": "4",
+    "category": "Men",
+    "sub_category": "Cloth",
+    "brand": "Maniac",
+    "name": "checkered Men's T-Shirt",
+    "type": "T-Shirt",
+    "price": "449",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jdyuefk0/t-shirt/j/6/h/s-mens-ss18-rn-fs-checked-tshirt-navy-maniac-original-imaf2r9whsgg7bxg.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jdyuefk0/t-shirt/j/6/h/xl-mens-ss18-rn-fs-checked-tshirt-navy-maniac-original-imaf2r9hkq9wq85h.jpeg?q=70"
+    ],
+    "feature": "Full sleeve round neck",
+    "size": ["S", "M", "L", "XL", "XXL"]
+  },
+  {
+    "id": "5",
+    "category": "Men",
+    "sub_category": "Cloth",
+    "type": "Shirt",
+    "brand": "Highlander",
+    "name": " Men Checkered Shirt",
+    "price": "649",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jhjg13k0/shirt/s/e/f/m-hlsh009231-navy-blue-red-highlander-original-imaf5g64jtj3gtuf.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jhjg13k0/shirt/s/e/f/m-hlsh009231-navy-blue-red-highlander-original-imaf5g64dddwtsgt.jpeg?q=70"
+    ],
+    "feature": "Full sleeve cotton casual",
+    "size": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": "6",
+    "category": "Women",
+    "sub_category": "Clothes",
+    "brand": "Saara",
+    "type": "Saree",
+    "name": "Fashion Poly Silk Saree",
+    "price": "699",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jhmawsw0/sari/v/9/d/free-618s504-saara-original-imaf4yypb2hkvjwv.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jhmawsw0/sari/v/9/d/free-618s504-saara-original-imaf4yypswdzczz7.jpeg?q=70"
+    ],
+    "feature": "Poly Silk , Blouse Fabric : Poly Silk"
+  },
+  {
+    "id": "7",
+    "category": "Women",
+    "sub_category": "Clothes",
+    "type": "Casual Top",
+    "name": "Casual Bell Sleeve Top",
+    "price": "517",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/j6zcwi80/top/y/s/x/m-ep2050a-rare-original-imaexb33qwvfjk6g.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/j6zcwi80/top/s/d/m/s-ep2050a-rare-original-imaexb3372ydfyvw.jpeg?q=70"
+    ],
+    "feature": "High Neck Full sleeve : Polyester",
+    "size": ["S", "M", "L", "XL"]
+  },
+  {
+    "id": "8",
+    "category": "Others",
+    "sub_category": "Table",
+    "brand": "RoyalOak",
+    "name": "Metal Coffee Table",
+    "type":"Table",
+    "price": "4699",
+    "Material": "Carbon Steel Metal",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jgv5jm80/coffee-table/5/g/8/carbon-steel-ct91-royaloak-brown-original-imaf48ssqugtzkey.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jgv5jm80/coffee-table/5/g/8/carbon-steel-ct91-royaloak-brown-original-imaf48sst3nerauc.jpeg?q=70"
+    ]
+  },
+  {
+    "id": "9",
+    "category": "Electronics",
+    "sub_category": "Camera",
+    "brand": "Canon",
+    "name": "Canon EOS 3000D DSLR",
+    "price": "24990",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jfbfde80/camera/n/r/n/canon-eos-eos-3000d-dslr-original-imaf3t5h9yuyc5zu.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jfbfde80/camera/n/r/n/canon-eos-3000d-original-imaf3t5hjrz6zzzc.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jmthle80-1/dslr-camera/n/r/n/eos-eos-3000d-canon-original-imaf9n6fqhmgt4cv.jpeg?q=70"
+    ],
+    "type": "DSLR",
+    "pixel": "18MP",
+    "shutter_speed": "1/4000 sec",
+    "video": "1920 x 1080"
+  },
+  {
+    "id": "10",
+    "category": "Electronics",
+    "sub_category": "Camera",
+    "brand": "Canon",
+    "name": "Canon EOS 3000D DSLR",
+    "price": "24990",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jfbfde80/camera/n/r/n/canon-eos-eos-3000d-dslr-original-imaf3t5h9yuyc5zu.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jfbfde80/camera/n/r/n/canon-eos-3000d-original-imaf3t5hjrz6zzzc.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jmthle80-1/dslr-camera/n/r/n/eos-eos-3000d-canon-original-imaf9n6fqhmgt4cv.jpeg?q=70"
+    ],
+    "type": "DSLR",
+    "pixel": "18MP",
+    "shutter_speed": "1/4000 sec",
+    "video": "1920 x 1080"
+  },
+  {
+    "id": "11",
+    "category": "Electronics",
+    "sub_category": "Camera",
+    "brand": "Canon",
+    "name": "Canon EOS 200D DSLR",
+    "price": "39990",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/j9yixe80/dslr-camera/t/m/d/eos-200d-eos-200d-canon-original-imaezhnkrgvstcpt.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/j9yixe80/dslr-camera/t/m/d/eos-200d-eos-200d-canon-original-imaezhnkchbuhdqk.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/j9yixe80/dslr-camera/t/m/d/eos-200d-eos-200d-canon-original-imaezhnkwn7mzxxz.jpeg?q=70"
+    ],
+    "type": "DSLR",
+    "pixel": "24.2MP",
+    "shutter_speed": "1/4000 sec",
+    "video": "6000 x 4000"
+  },
+  {
+    "id": "12",
+    "category": "Electronics",
+    "sub_category": "Camera",
+    "brand": "Nikon",
+    "name": "Nikon D3400 DSLR",
+    "price": "38990",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/dslr-camera/3/d/h/digital-camera-d3400-kit-with-lens-af-p-dx-nikkor-18-55-mm-f-3-5-original-imaemk39hqwhhhwj.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jgwkzgw0/dslr-camera/3/d/h/digital-camera-d3400-d3400-nikon-original-imaf5fheuzysfchr.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jgwkzgw0/dslr-camera/3/d/h/digital-camera-d3400-d3400-nikon-original-imaf5fherxqzgknk.jpeg?q=70"
+    ],
+    "type": "DSLR",
+    "pixel": "24.2MP",
+    "shutter_speed": "1/4000 sec",
+    "video": "1920 x 1080"
+  },
+  {
+    "id": "13",
+    "category": "Men",
+    "sub_category": "Watches",
+    "type": "Men",
+    "brand": "Titan",
+    "name": "Titan 1771SM03 Neo Watch",
+    "price": "2165",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jgqv8280/watch/j/c/z/1771sm03-titan-original-imaf4wn8vvkhh6wb.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jgqv8280/watch/j/c/z/1771sm03-titan-original-imaf4wn89xgzparp.jpeg?q=70"
+    ],
+    "Display": "Analog"
+  },
+  {
+    "id": "14",
+    "category": "Men",
+    "sub_category": "Watches",
+    "type": "Men",
+    "brand": "Titan",
+    "name": "Titan 1730SL02 Watch",
+    "price": "2390",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/j9k8ivk0/watch/d/a/n/1730sl02-titan-original-imaezbuhkdkagbde.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/watch/d/a/n/1730sl02-titan-original-imaeprdgptgnnmdv.jpeg?q=70"
+    ],
+    "Screen": "Analog"
+  },
+  {
+    "id": "15",
+    "category": "Men",
+    "sub_category": "Watches",
+    "type": "Men",
+    "brand": "Titan",
+    "name": "Titan Karishma Watch",
+    "price": "2165",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/watch/k/p/m/nf1648ym02-titan-original-imae8dtnwpwr4ctb.jpeg?q=70"
+    ],
+    "Screen": "Analog"
+  },
+  {
+    "id": "16",
+    "category": "Men",
+    "sub_category": "Watches",
+    "type": "Men",
+    "brand": "Titan",
+    "name": "Titan NH1639SM03 Watch",
+    "price": "1835",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/watch/k/e/6/1639sm03-titan-original-imaedbtj5gegwxdg.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/watch/k/e/6/1639sm03-titan-original-imaedbtjgmrxy8mp.jpeg?q=70"
+    ],
+    "Screen": "Analog"
+  },
+  {
+    "id": "17",
+    "category": "Electronics",
+    "sub_category": "Laptop",
+    "brand": "Dell",
+    "name": "Dell Inspiron 7567 ",
+    "price": "79990",
+    "ram": "8GB",
+    "storage": "1TB HDD",
+    "processor": "i7",
+    "os": "Windows 10",
+    "display": "15.6 inch 1920*1080 IPS Anti-glare LED",
+    "soc": "2.8GHz quad core 7th gen",
+    "gpu": "NVIDIA Geforce GTX 1050Ti",
+    "usb": "3 x USB 3.0",
+    "dimension": "384.9 x 274.73 x 25.44 mm",
+    "weight": "2.62 kg",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jmwch3k0/computer/f/v/p/dell-na-gaming-laptop-original-imaf9pha7squb4en.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jmwch3k0/computer/f/v/p/dell-na-gaming-laptop-original-imaf9phafdmhc9qj.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jmwch3k0/computer/f/v/p/dell-na-gaming-laptop-original-imaf9phabvd9sgye.jpeg?q=70"
+    ]
+  },
+  {
+    "id": "18",
+    "category": "Electronics",
+    "sub_category": "Laptop",
+    "brand": "Dell",
+    "name": "Dell Inspiron 5370",
+    "price": "45990",
+    "ram": "4GB",
+    "storage": "128GB SSD",
+    "processor": "i3",
+    "os": "Windows 10",
+    "display": "13 inch 1920*1080 IPS Anti-glare LED",
+    "soc": "2.7GHz Core i3",
+    "gpu": "Intel Integrated HD 620",
+    "usb": "3 x USB 3.1",
+    "dimension": "323.9 x 219.9 x 15.81 mm",
+    "weight": "1.4 kg",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jiw10280/computer/c/n/g/dell-na-thin-and-light-laptop-original-imaf6hfahvxzdwhq.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jiw10280/computer/c/n/g/dell-na-thin-and-light-laptop-original-imaf6hfavqtykmrg.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jiw10280/computer/c/n/g/dell-na-thin-and-light-laptop-original-imaf6hfayr9zxjwx.jpeg?q=70"
+    ]
+  },
+  {
+    "id": "19",
+    "category": "Electronics",
+    "sub_category": "Laptop",
+    "brand": "Dell",
+    "name": "Dell Inspiron 3552",
+    "price": "20490",
+    "ram": "4GB",
+    "storage": "500GB HDD",
+    "processor": "i3",
+    "os": "Linux",
+    "display": "15.6 inch 1366*768 IPS Anti-glare LED",
+    "soc": "1.6GHz Celeron Dual Core",
+    "gpu": "Intel Integrated HD",
+    "usb": "2 x USB 2.0, 1 x USB 3.0",
+    "dimension": "380 x 260.3 x 21.7 mm",
+    "weight": "1.28 kg",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jiw10280/computer/s/7/x/dell-na-laptop-original-imaf6h36uu485ddq.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jiw10280/computer/s/7/x/dell-na-laptop-original-imaf6h36f8taybxa.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jiw10280/computer/s/7/x/dell-na-laptop-original-imaf6h36vvb4bztn.jpeg?q=70"
+    ]
+  },
+  {
+    "id": "20",
+    "category": "Electronics",
+    "sub_category": "Laptop",
+    "brand": "HP",
+    "name": "HP 14q-cs0009TU",
+    "price": "27990",
+    "ram": "4GB",
+    "storage": "1TB HDD",
+    "processor": "i3",
+    "os": "DOS",
+    "display": "14 inch 1366*768 HD LED",
+    "soc": "2.3GHz Dual Core i3 7th Gen",
+    "gpu": "Intel Integrated HD 620",
+    "usb": "1 x USB 2.0, 2 x USB 3.1",
+    "dimension": "335 x 234 x 19.9 mm",
+    "weight": "1.47 kg",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jmz7csw0/computer/f/b/c/hp-na-laptop-original-imaf9zypfzvchc8y.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jmz7csw0/computer/f/b/c/hp-na-laptop-original-imaf9zypu2mjhzmk.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jmz7csw0/computer/f/b/c/hp-na-laptop-original-imaf9zypczpfeyp2.jpeg?q=70"
+      
+    ]
+  },
+  {
+    "id": "21",
+    "category": "Women",
+    "sub_category": "Watch",
+    "type": "Women",
+    "brand": "Casio",
+    "name": "Casio A902 Ladies Watch",
+    "price": "4995",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/j8ndea80/watch/2/5/g/a902-casio-original-imaeymggabhz2aqr.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/j8rnpu80/watch/2/5/g/a902-casio-original-imaeymgyrqkzk73n.jpeg?q=70"
+    ],
+    "Screen": "Analog"
+  },
+  {
+    "id": "22",
+    "category": "Women",
+    "sub_category": "Watch",
+    "type": "Women",
+    "brand": "Titan",
+    "name": "Titan  Raga Watch",
+    "price": "3495",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/watch/a/z/y/2455bm01-titan-original-imadnbyu77qz9yce.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/watch/a/z/y/2455bm01-titan-original-imadnbyrb7hajq2y.jpeg?q=70"
+    ],
+    "Screen": "Analog"
+  },
+  {
+    "id": "23",
+    "category": "Women",
+    "sub_category": "Watch",
+    "type": "Women",
+    "brand": "Titan",
+    "name": "Titan 2594BM01 Watch",
+    "price": "1835",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jfea93k0/watch/y/f/c/2594bm01-titan-original-imaf3nmzheh2emnk.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jfea93k0/watch/y/f/c/2594bm01-titan-original-imaf3vgansyfm8f9.jpeg?q=70"
+    ],
+    "Screen": "Analog"
+  },
+  {
+    "id": "24",
+    "category": "Women",
+    "sub_category": "Watch",
+    "type": "Women",
+    "brand": "Fossil",
+    "name": "Fossil KARLI Watch",
+    "price": "4310",
+    "image": [
+      "https://rukminim1.flixcart.com/image/832/832/jdj4k280/watch/t/v/b/bq3182-fossil-original-imaf2bucvwrbfepz.jpeg?q=70",
+      "https://rukminim1.flixcart.com/image/832/832/jdhp47k0/watch/t/v/b/bq3182-fossil-original-imaf2bucf6rcg7tk.jpeg?q=70"
+    ],
+    "Screen": "Analog"
+  }
+]

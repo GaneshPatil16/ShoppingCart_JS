@@ -1,0 +1,18 @@
+[
+    {
+        "category":"Electronics",
+        "sub_category": [{"category":"Laptop"},{"category":"Mobile"},{"category":"Camera"}]
+    },
+    {
+        "category": "Men",
+        "sub_category": [{"category":"Cloth"},{"category":"Watches"}]
+    },
+    {
+        "category": "Women",
+        "sub_category": [{"category":"Clothes"},{"category":"Watch"}]
+    },
+    {
+        "category": "Others",
+        "sub_category": [{"category":"Table"}]
+    }
+]
