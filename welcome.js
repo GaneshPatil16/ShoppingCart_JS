@@ -31,7 +31,7 @@ $(document).ready(function () {
 				product.price + "</p></div><button class=\"btn btn-warning\" id='"+product.id+
 				"' onclick='addToCart("+product.id+")'><span class='glyphicon glyphicon-shopping-cart'></span> Add to Cart</button>" +
 				" " + "<button class=\"btn btn-success\" id='"+product.id+
-				"' onclick='addToWishlist("+product.id+")'><span class='glyphicon glyphicon-heart'></span> Add to Wishlist</button><br><br></div></div>";
+				"' onclick='buyNow("+product.id+")'> Buy Now</button><br><br></div></div>";
 
 			$(".products").append(products);
 
@@ -64,7 +64,7 @@ function displayProduct(subCat){
 				 "</h3><p id='price'>" + "Rs." +p.price + "</p></div><button class=\"btn btn-warning\" id='"+p.id+
 				 "' onclick='addToCart("+p.id+")'><span class='glyphicon glyphicon-shopping-cart'></span>Add to Cart</button>"+
 				 " " + "<button class=\"btn btn-success\" id='"+p.id+
-				 "' onclick='addToWishlist("+p.id+")'><span class='glyphicon glyphicon-heart'></span>Add to Wishlist</button><br><br></div></div>";
+				 "' onclick='buyNow("+p.id+")'>Buy Now</button><br><br></div></div>";
 
 				 
 		
@@ -88,7 +88,7 @@ function showProduct(id){
 				h.price + "</h2></td></tr>  <tr><td><button class=\"btn btn-warning\" id='"+h.id+
 				"' onclick='addToCart("+h.id+")'><span class='glyphicon glyphicon-shopping-cart'></span>Add to Cart</button>" +
 				" " + "<button class=\"btn btn-success\" id='"+h.id+
-				"' onclick='addToWishlist("+h.id+")'><span class='glyphicon glyphicon-heart'></span>Add to Wishlist</button></td></tr></table></div><//div</div>";
+				"' onclick='buyNow("+h.id+")'>Buy Now</button></td></tr></table></div><//div</div>";
 
 			
 			}

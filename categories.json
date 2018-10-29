@@ -5,11 +5,11 @@
     },
     {
         "category": "Men",
-        "sub_category": [{"category":"Cloth"},{"category":"Watches"}]
+        "sub_category": [{"category":"Cloth"},{"category":"Watches"},{"category":"Footwear"}]
     },
     {
         "category": "Women",
-        "sub_category": [{"category":"Clothes"},{"category":"Watch"}]
+        "sub_category": [{"category":"Clothes"},{"category":"Watch"},{"category":"Footwears"}]
     },
     {
         "category": "Others",

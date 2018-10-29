@@ -35,12 +35,16 @@
 			</form> -->
 			<ul class="nav navbar-nav navbar-right">
 				<li>
-					<a type="button" class="btn "  data-toggle="modal" data-target="#myModal2">
-						<span class="glyphicon glyphicon-heart"></span> Wishlist</a>
+					<a type="button" class="btn btn1" onclick='showDiv1()' >
+						<span class="glyphicon glyphicon-home"></span> Home</a>
 				</li>
 				<li>
-					<a type="button" class="btn " data-toggle="modal" data-target="#myModal">
+					<a type="button" class="btn btn2" onclick='showDiv2()'>
 						<span class="glyphicon glyphicon-shopping-cart"></span> Cart</a>
+				</li>
+				<li>
+					<a type="button" class="btn" onclick='showDiv()'>
+						<span class="glyphicon glyphicon-shopping-cart"></span> My Purchase</a>
 				</li>
 				
 			</ul>
@@ -69,37 +73,10 @@
 		</div>
 
 		<div class="container">
-		<div class="modal" id="myModal">
-				<div class="modal-dialog modal-lg">
-				  <div class="modal-content modal1">
-						<button type="button" style="height:40px;width:40px"class="close" data-dismiss="modal">&times;</button>
-						<div class='modal-header'>
-							<h4 class='modal-title'><span class="glyphicon glyphicon-shopping-cart"></span> Your Cart</h4>
-							
-						</div>
-					 
-					</div>
-					
-				  </div>
-				</div>
-			  </div>
+			<div class='cart'>
 
-			  <div class="modal" id="myModal2">
-				<div class="modal-dialog modal-lg ">
-				  <div class="modal-content modal2">
-						<button type="button" style="height:40px;width:40px"class="close" data-dismiss="modal">&times;</button>
-						<div class='modal-header'>
-							<h4 class='modal-title'><span class="glyphicon glyphicon-shopping-cart"></span> Your Wishlist</h4>
-							
-						</div>
-					 
-					</div>
-					
-				  </div>
-				</div>
-			  </div>
-			  
 			</div>
+		</div>
 
 			
 

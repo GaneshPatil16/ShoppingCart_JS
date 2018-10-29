@@ -22,8 +22,40 @@ function buyNow(id){
 			}
         };	
         
-        $(".container-fluid").css("display","none");
-		$(".buyNow").append(product);
+        
+        
+        $(".buyNow").append(product);
+        $(".buyNow").css("display","none");
 		
 	});
+}
+
+function showDiv(){
+    $(".btn").click(function(){
+        $(".buyNow").show();
+    });
+    
+    $(".container-fluid").css("display","none");
+    $(".sub-menu").css("display","none");
+    $(".showProduct ").css("display","none");
+}
+function showDiv1(){
+    $(".btn1").click(function(){
+        $(".container-fluid").show();
+    });
+    
+    $(".sub-menu").css("display","none");
+    $(".showProduct ").css("display","none");
+    $(".buyNow").css("display","none");
+    $(".cart").css("display","none");
+}
+function showDiv2(){
+    $(".btn2").click(function(){
+        $(".cart").show();
+    });
+
+    $(".container-fluid").css("display","none");
+    $(".sub-menu").css("display","none");
+    $(".showProduct ").css("display","none");
+    $(".buyNow").css("display","none");
 }
