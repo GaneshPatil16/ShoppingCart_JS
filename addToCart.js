@@ -1,7 +1,8 @@
 var wishlist = [];
+
+/************************** This function is used to add products to the cart when we click on "Add to cart" button ***************************/
+
 function addToCart(id) {
-
-
 	$.get("products.json", function (result) {
 
 		for (var h of result) {
@@ -31,6 +32,7 @@ function addToCart(id) {
 }
 
 
+/********************** This function is used to remove products from the cart when we click on "Remove from cart" button *********************/
 
 
 function remove(id) {

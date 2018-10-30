@@ -1,3 +1,6 @@
+
+/******************************** This function is used to display categories and sub-categories dynamically  ******************************/
+
 $(document).ready(function () {
 	$.get("categories.json", function (result) {
 
@@ -19,27 +22,9 @@ $(document).ready(function () {
 		});
 
 	});
-
-	
-	$.get("products.json", function (result) {
-
-		for (var product of result) {
-
-			var products =
-				"<div class=\"col-lg-3\ col-md-4\ col-sm-6\ col-xs-12\"><div class=\"card\"><input type='image' src='" + product.image[0] +
-				"' height=\"300px\" width=\"200px\" id='"+product.id+"' onclick='showProduct("+product.id+")'><h3 id='name'>" + product.name + "</h3><p id='price'>" + "Rs." +
-				product.price + "</p></div><button class=\"btn btn-warning\" id='"+product.id+
-				"' onclick='addToCart("+product.id+")'><span class='glyphicon glyphicon-shopping-cart'></span> Add to Cart</button>" +
-				" " + "<button class=\"btn btn-success\" id='"+product.id+
-				"' onclick='buyNow("+product.id+")'> Buy Now</button><br><br></div></div>";
-
-			$(".products").append(products);
-
-		};	
-
-	});
 });
 
+/***************************** This function is used to display products when clicked on particular sub-category ******************************/
 
 function displayProduct(subCat){
 	$.get("products.json", function (data) {
@@ -58,6 +43,7 @@ function displayProduct(subCat){
 
 			$(".container-fluid").css("display","none");
 			
+			
 			var product =
 				 "<div class=\"col-lg-3\ col-md-4\ col-sm-6\ col-xs-12\"><div class=\"card\"><input type='image' src='" + p.image[0] +
 				 "' height=\"300px\" width=\"200px\" id='"+p.id+"' onclick='showProduct("+p.id+")'><h3 id='name'>" + p.name + 
@@ -66,13 +52,13 @@ function displayProduct(subCat){
 				 " " + "<button class=\"btn btn-success\" id='"+p.id+
 				 "' onclick='buyNow("+p.id+")'>Buy Now</button><br><br></div></div>";
 
-				 
-		
 		$(".sub-menu").append(product);
 		}
 
 	});
 }
+
+/**************** This function is used to display information about a particular product when we click on the image of a product **************/
 
 function showProduct(id){
 	$(".container-fluid").css("display","none");
@@ -83,14 +69,13 @@ function showProduct(id){
 				console.log(id);
 			var products =
 				"<div class=\"cart-list\"><div class=\"cart-item\"><input type='image' src='"+ h.image[0]+
-				"' height=\"500px\" width=\"300px\"><div class=\"item-desc\">  <table><tr><td><h2>Name</h2></td><td><h1>" + h.name + 
-				"</h1></td></tr>  <tr><td><h2>Price</h2></td><td><h2 id='price'>" + "Rs." +
-				h.price + "</h2></td></tr>  <tr><td><button class=\"btn btn-warning\" id='"+h.id+
+				"' height=\"500px\" width=\"300px\"><div class=\"item-desc\">  <table><tr><td><h1>" + h.name + 
+				"</h1></td></tr>  <tr><td><h2>" + "Rs." +h.price
+				 + "</h2></td></tr>  <tr><td><button class=\"btn btn-warning\" id='"+h.id+
 				"' onclick='addToCart("+h.id+")'><span class='glyphicon glyphicon-shopping-cart'></span>Add to Cart</button>" +
 				" " + "<button class=\"btn btn-success\" id='"+h.id+
 				"' onclick='buyNow("+h.id+")'>Buy Now</button></td></tr></table></div><//div</div>";
 
-			
 			}
 		};	
 		$(".sub-menu").css("display","none");
